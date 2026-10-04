@@ -18,7 +18,7 @@ A robust command-line application built in Swift demonstrating core **Object-Ori
 
 * **Language:** Swift 5+
 * **Paradigm:** Object-Oriented Programming (OOP)
-* **Tools:** Xcode / Terminal (macOS / Linux)
+* **Tools:** Xcode / Terminal (macOS)
 
 ---
 
